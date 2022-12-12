@@ -1,4 +1,4 @@
-[![Linkedin: ruslan-mehdiyev](<https://img.shields.io/badge/-ruslanmehdiyev-blue?style=flat-square&logo=Linkedin&logoColor=white&link[[https://www.linkedin.com/in/ruslan-mehdiyev/](https://www.linkedin.com/in/ruslan-mehdiyev/)]
+[![Linkedin: ruslan-mehdiyev](<https://img.shields.io/badge/-RuslanMehdiyev-blue?style=flat-square&logo=Linkedin&logoColor=white&link[https://www.linkedin.com/in/ruslan-mehdiyev/](https://www.linkedin.com/in/ruslan-mehdiyev/)>)](<[https://www.linkedin.com/in/ruslan-mehdiyev/](https://az.linkedin.com/in/ruslan-mehdiyev?trk=public_profile_browsemap)>)
 [![GitHub Thaiane](https://img.shields.io/github/followers/ruslanmehdiyev?label=follow&style=social)](https://github.com/RuslanMehdiyev)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanMehdiyev&layout=compact&theme=gotham&custom_title=Statistics)
